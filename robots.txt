@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://allyoucanget-ex/sitemap.xml.gz
