@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://allyoucanget-ex/sitemap.xml.gz
+Sitemap: https://allyoucanget-ex.github.io/sitemap.xml.gz
